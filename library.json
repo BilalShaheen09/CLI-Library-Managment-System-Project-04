@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Earn and Learn",
+        "author": "SHAHEEN",
+        "year": 2025,
+        "genre": "knowledge",
+        "read_status": true
+    },
+    {
+        "title": "learn python",
+        "author": "SHAHEEN",
+        "year": 2025,
+        "genre": "coding",
+        "read_status": true
+    },
+    {
+        "title": "learn TIKTOK",
+        "author": "SHAHEEN",
+        "year": 2025,
+        "genre": "Social Media",
+        "read_status": false
+    },
+    {
+        "title": "The month of Happy Ramadan",
+        "author": "Bilal",
+        "year": "2025",
+        "genre": "relligion",
+        "read_status": true
+    },
+    {
+        "title": "Crypto",
+        "author": "Bilal",
+        "year": "2024",
+        "genre": "Rich life",
+        "read_status": false
+    }
+]
